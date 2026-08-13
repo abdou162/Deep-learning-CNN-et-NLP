@@ -1,0 +1,21 @@
+# Emergency Image Classification — Deep Learning
+
+Projet d'examen de Deep Learning réalisé avec PyTorch sur un dataset
+d'images de classification binaire : **urgence ou non urgence**.
+
+## Contenu du projet
+- Chargement et exploration du dataset (2352 images, labels CSV)
+- Pipeline PyTorch complet : Dataset, DataLoader, transformations
+- Deux architectures : **MLP** et **CNN**
+- Recherche d'hyperparamètres : learning rate, batch size, dropout, weight decay
+- Visualisation des courbes train/validation
+- Sélection et évaluation du meilleur modèle sur le jeu de test
+
+## Technologies
+- Python, PyTorch, torchvision
+- NumPy, Pandas, Matplotlib
+- Google Colab
+
+## Auteurs
+- Gora GUEYE
+- Abdou NDOUR
